@@ -1,0 +1,35 @@
+{
+    "name": "brown-pixel-dark",
+    "displayName": "Brown Pixel Dark",
+    "description": "brown pixel dark theme",
+    "version": "0.0.1",
+    "publisher": "AarushTanwar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thisisaarush/brownpixel-VScodeDarkTheme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "brown pixel",
+        "gold dark",
+        "night theme",
+        "best theme",
+        "aarush tanwar"
+    ],
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Brown Pixel Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Brown Pixel Dark Theme-color-theme.json"
+            }
+        ]
+    }
+}
